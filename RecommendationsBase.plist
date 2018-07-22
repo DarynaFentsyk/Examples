@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Blood test</string>
+		<key>age</key>
+		<integer>18</integer>
+		<key>sex</key>
+		<string>Female</string>
+		<key>checked</key>
+		<false/>
+		<key>descriptionR</key>
+		<string>Blood tests can be used to assess your general health, as well as help your doctor diagnose or monitor a range of conditions. Blood tests are generally accurate, but not perfect. This information helps you understand what is involved.
+
+</string>
+		<key>category</key>
+		<string>General</string>
+		<key>visit</key>
+		<date>2018-06-25T22:41:32Z</date>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Blood test</string>
+		<key>age</key>
+		<integer>18</integer>
+		<key>sex</key>
+		<string>Male</string>
+		<key>checked</key>
+		<false/>
+		<key>descriptionR</key>
+		<string>Blood tests can be used to assess your general health, as well as help your doctor diagnose or monitor a range of conditions. Blood tests are generally accurate, but not perfect. This information helps you understand what is involved.
+
+</string>
+		<key>category</key>
+		<string>General</string>
+		<key>visit</key>
+		<date>2018-06-25T22:41:48Z</date>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Pap Smer Test</string>
+		<key>age</key>
+		<integer>21</integer>
+		<key>sex</key>
+		<string>Female</string>
+		<key>checked</key>
+		<false/>
+		<key>descriptionR</key>
+		<string>The age-adjusted annual incidence rate of cervical cancer is 6.6 cases per 100,000 women. An estimated 530,000 new cases  of cervical cancer  occurred in the world every year. Cervical cancer deaths have decreased dramatically since the implementation of widespread cervical cancer screening. </string>
+		<key>category</key>
+		<string>Gynecology</string>
+		<key>visit</key>
+		<date>2018-06-25T22:42:21Z</date>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>PSA</string>
+		<key>age</key>
+		<integer>50</integer>
+		<key>sex</key>
+		<string>Male</string>
+		<key>checked</key>
+		<false/>
+		<key>descriptionR</key>
+		<string>Prostate cancer is one of the most common types of cancer that affects men. The lifetime risk of being diagnosed with it is approximately 11%, and the lifetime risk of dying of it is 2.5%. Many men with prostate cancer never experience symptoms and, without screening, would never know they have the disease. </string>
+		<key>category</key>
+		<string>Urology</string>
+		<key>visit</key>
+		<date>2018-06-25T22:42:36Z</date>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Colonoscopy</string>
+		<key>age</key>
+		<integer>50</integer>
+		<key>sex</key>
+		<string>Female</string>
+		<key>checked</key>
+		<false/>
+		<key>descriptionR</key>
+		<string>Colorectal cancer is the third most common type of cancer and the second leading cause of cancer death. Current levels of screening lag behind those of other effective cancer screening tests; it has been estimated that attainment of goals for population colorectal cancer screening could save 18,800 lives per year. </string>
+		<key>category</key>
+		<string>Gastroenterology</string>
+		<key>visit</key>
+		<date>2018-06-25T22:42:51Z</date>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Colonoscopy</string>
+		<key>age</key>
+		<integer>50</integer>
+		<key>sex</key>
+		<string>Male</string>
+		<key>checked</key>
+		<false/>
+		<key>descriptionR</key>
+		<string>Colorectal cancer is the third most common type of cancer and the second leading cause of cancer death. Current levels of screening lag behind those of other effective cancer screening tests; it has been estimated that attainment of goals for population colorectal cancer screening could save 18,800 lives per year. </string>
+		<key>category</key>
+		<string>Gastroenterology</string>
+		<key>visit</key>
+		<date>2018-06-25T22:43:00Z</date>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Breast examination</string>
+		<key>age</key>
+		<integer>25</integer>
+		<key>sex</key>
+		<string>Female</string>
+		<key>checked</key>
+		<false/>
+		<key>descriptionR</key>
+		<string>Breast cancer is the second-leading cause of cancer death among women. Widespread use of screening have been credited with significant reductions in breast cancer mortality. Breast examination can detect presymptomatic breast cancer. </string>
+		<key>category</key>
+		<string>Gynecology</string>
+		<key>visit</key>
+		<date>2018-06-25T22:43:09Z</date>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Mammography</string>
+		<key>age</key>
+		<integer>40</integer>
+		<key>sex</key>
+		<string>Female</string>
+		<key>checked</key>
+		<false/>
+		<key>descriptionR</key>
+		<string>Breast cancer is the second-leading cause of cancer death among women. Widespread use of screening have been credited with significant reductions in breast cancer mortality. Mammography, as well as physical examination of the breasts, can detect presymptomatic breast cancer. </string>
+		<key>category</key>
+		<string>Gynecology</string>
+		<key>visit</key>
+		<date>2018-06-25T22:43:19Z</date>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>LDCT</string>
+		<key>age</key>
+		<integer>55</integer>
+		<key>sex</key>
+		<string>Male</string>
+		<key>checked</key>
+		<false/>
+		<key>descriptionR</key>
+		<string>Lung cancer is the third most common cancer and the leading cause of cancer death. The most important risk factor for lung cancer is smoking, which results in approximately 85% of all lung cancer cases. The incidence of lung cancer increases with age and occurs most commonly in persons aged 55 years or older. </string>
+		<key>category</key>
+		<string>Pulmonology</string>
+		<key>visit</key>
+		<date>2018-06-25T22:43:27Z</date>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>LDCT</string>
+		<key>age</key>
+		<integer>55</integer>
+		<key>sex</key>
+		<string>Female</string>
+		<key>checked</key>
+		<false/>
+		<key>descriptionR</key>
+		<string>Lung cancer is the third most common cancer and the leading cause of cancer death. The most important risk factor for lung cancer is smoking, which results in approximately 85% of all lung cancer cases. The incidence of lung cancer increases with age and occurs most commonly in persons aged 55 years or older. </string>
+		<key>category</key>
+		<string>Pulmonology</string>
+		<key>visit</key>
+		<date>2018-06-25T22:43:35Z</date>
+	</dict>
+</array>
+</plist>
